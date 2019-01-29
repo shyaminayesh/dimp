@@ -1,0 +1,35 @@
+{
+    "name": "shyaminayesh/dimp",
+    "description": "A Simple PHP Wrapper for Dialog IdeaMart API's.",
+    "keywords": [
+        "ideamart",
+        "php",
+        "dialog",
+        "dialog ideamart",
+        "dialog api",
+        "dialog php",
+        "sms",
+        "ussd"
+    ],
+    "support": {
+        "issues": "https://github.com/shyaminayesh/dimp/issues",
+        "source": "https://github.com/shyaminayesh/dimp"
+    },
+    "authors": [
+        {
+            "name": "Shyamin Ayesh",
+            "email": "me@shyamin.com",
+            "homepage": "https://shyamin.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "license": "GPL-3.0-or-later",
+    "homepage": "https://shyamin.com/"
+}
